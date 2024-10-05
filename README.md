@@ -1,10 +1,10 @@
-# Godot Improvement Proposals
+# Redot Improvement Proposals
 
 This repository serves as the central hub for proposing, discussing, and
-reviewing new features and enhancements in Godot Engine. While there exists
+reviewing new features and enhancements in Redot Engine. While there exists
 some leeway, most changes made to the engine must go through the proposal
 process first. The goal is to determine whether the suggestion makes sense
-for the majority of Godot users, and to figure out the best approach to
+for the majority of Redot users, and to figure out the best approach to
 implement it.
 
 As such, everyone is welcome to participate in ongoing discussions, or start
@@ -15,25 +15,25 @@ a new one.
 > in proposal titles using <kbd>Ctrl + F</kbd> or <kbd>Cmd + F</kbd>.
 
 Bug reports are not a subject of the proposal process. If you experience
-an issue while using Godot that cannot be attributed to a missing feature,
-please open a report in the [main Godot repository](https://github.com/godotengine/godot).
+an issue while using Redot that cannot be attributed to a missing feature,
+please open a report in the [main Redot repository](https://github.com/Redot-Engine/redot-engine).
 Feel free to open a pull-request based on any bug report as well!
 
 ## Suggesting improvements
 
 You have two options to make a suggestion for the future of the engine. You
-can either open a proposal [**Issue**](https://github.com/godotengine/godot-proposals/issues/new/choose),
-or you can create an open [**Discussion**](https://github.com/godotengine/godot-proposals/discussions/new).
+can either open a proposal [**Issue**](https://github.com/Redot-Engine/redot-proposals/issues/new/choose),
+or you can create an open [**Discussion**](https://github.com/Redot-Engine/redot-proposals/discussions/new).
 
 Proposal *issues* are required to explain in technical detail how the suggested change
 should be implemented. It is also preferred that the submitter of a proposal is
 ready to implement it if it was approved. If you have a more general idea for
-a feature but are not well versed in Godot's architecture or do not possess
+a feature but are not well versed in Redot's architecture or do not possess
 the necessary knowledge to implement it in the engine, feel free to open a
-[*discussion*](https://github.com/godotengine/godot-proposals/discussions/new)
-instead of an [*issue*](https://github.com/godotengine/godot-proposals/issues/new/choose).
+[*discussion*](https://github.com/Redot-Engine/redot-proposals/discussions/new)
+instead of an [*issue*](https://github.com/Redot-Engine/redot-proposals/issues/new/choose).
 
-A valid feature proposal will be held open to allow fellow Godot users and
+A valid feature proposal will be held open to allow fellow Redot users and
 contributors to weigh in on the suggestion and its implementation. While all
 opinions are considered, a core developer must approve the feature and its
 implementation for a proposal to be considered ready to implement.
@@ -44,7 +44,7 @@ Don't fork this repository to open a proposal.
 ## Rules for submitting a proposal
 
 > **Note:** The following points describe requirements for a proposal issue. A
-> [discussion](https://github.com/godotengine/godot-proposals/discussions/new),
+> [discussion](https://github.com/Redot-Engine/redot-proposals/discussions/new),
 > on the other hand, can be started in any form.
 
 1. Only proposals that properly fill out the template will be considered. If
@@ -56,7 +56,7 @@ individually.
 
 3. All proposals must be linked to a substantive use-case. In justifying your
 proposal, it is not enough to say it would be "nice" or "helpful". Use the
-template to show how Godot is not currently meeting your needs and then
+template to show how Redot is not currently meeting your needs and then
 explain how your proposal will meet a particular need.
 
    * If you feel that you cannot provide highly detailed instructions with the
@@ -66,10 +66,10 @@ explain how your proposal will meet a particular need.
      repository.
 
 4. Other users must express interest in your proposal for it to be considered.
-Godot is community-driven: if no other users are interested in your proposal,
+Redot is community-driven: if no other users are interested in your proposal,
 it may be closed. It is up to you to draw interest in your proposed feature.
 Start by reaching out on the community channels (Reddit, Discord,
-[Godot Contributors Chat](https://chat.godotengine.org/)), etc.
+[Godot Contributors Chat](https://chat.godotengine.org/), etc.
 see the [Community Channels](http://docs.godotengine.org/en/stable/community/channels.html) doc),
 then create your proposal once you have gained some interest.
 

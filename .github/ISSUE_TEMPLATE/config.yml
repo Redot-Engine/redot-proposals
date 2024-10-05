@@ -3,9 +3,9 @@ blank_issues_enabled: false
 
 contact_links:
   - name: Share and discuss ideas
-    url: https://github.com/godotengine/godot-proposals/discussions
-    about: Discuss any idea related to improving Godot
+    url: https://github.com/Redot-Engine/rodot-proposals/discussions
+    about: Discuss any idea related to improving Redot
 
-  - name: Main Godot repository
-    url: https://github.com/godotengine/godot
-    about: Report bugs on the main Godot repository
+  - name: Main Redot repository
+    url: https://github.com/Redot-Engine/redot-engine
+    about: Report bugs on the main Redot repository
