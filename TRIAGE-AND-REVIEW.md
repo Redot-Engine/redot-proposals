@@ -1,4 +1,4 @@
-## Triaging Godot proposals
+## Triaging Redot proposals
 
 When a new proposal is added, it needs to be triaged. Existing proposals sometimes require
 re-triaging as well. The main goal of triaging a proposal is:
@@ -19,18 +19,18 @@ with an existing discussion.
 To help track proposals, plan future work, and organize review meetings, we use a dedicated
 GitHub project:
 
-https://github.com/orgs/godotengine/projects/37
+https://github.com/orgs/Redot-Engine/projects/9
 
 Triagers need to add the new proposal to this project, set its "**Status**" to "_In Discussion_" and
 its "**Feature Concept**" and "**Proposed Implementation**" fields to "_Unassessed_".
 
-## Reviewing Godot proposals
+## Reviewing Redot proposals
 
 Each proposal review starts with a public discussion. Stakeholders, area maintainers, as well as
 users of the engine can participate in the discourse, support or raise concern and try to
 forge the initial draft of a feature into a shape that solves the problem for the majority of users.
 
-> See Godot documentation to learn about [the engine design philosophy](https://docs.godotengine.org/en/stable/community/contributing/best_practices_for_engine_contributors.html).
+> See Redot documentation to learn about [the engine design philosophy](https://docs.redotengine.org/en/stable/community/contributing/best_practices_for_engine_contributors.html).
 
 For some areas of the engine, area maintainers can decide on the feature during this period of public
 discussion. In a lot of cases, though, the proposal can be put for review during a proposal review
@@ -70,7 +70,7 @@ status is all encompassing. The details can be explained in the closing message 
 as well as expressed with appropriate "**Feature Concept**" and "**Proposed Implementation**" status.
 
 A proposal can be put "_On Hold_" if it depends on another feature to be implemented first, it
-requires more time from the author, or if the decision was postponed until a future version of Godot.
+requires more time from the author, or if the decision was postponed until a future version of Redot.
 
 "_Implemented_" is self-explanatory. Note, that a proposal may still be open even if it marked as implemented.
 In such a case this indicates that while the feature has not been merged yet, it is complete
@@ -78,10 +78,10 @@ and new PRs are not required.
 
 ### Feature Concept
 
-The "**Feature Concept**" field is used to indicate if the proposed solution, conceptually, fits Godot.
+The "**Feature Concept**" field is used to indicate if the proposed solution, conceptually, fits Redot.
 This is different from approving the implementation. When the feature is approved it means that
 the problem described by the proposal is considered valid and that it is worth solving. It also means
-that the solution must be provided by the Godot engine team. This can mean a core change, or
+that the solution must be provided by the Redot engine team. This can mean a core change, or
 an _official_ extension.
 
 "**Feature Concept**" can have following values:
@@ -156,7 +156,7 @@ doesn't have complete support or has strong opposition.
 
 The GitHub project used to track proposals is here:
 
-https://github.com/orgs/godotengine/projects/37
+https://github.com/orgs/Redot-Engine/projects/9
 
 It has several board views that allow to quickly find the issues that need to be discussed or can be
 implemented. It also gives a complete look for slices based on "**Status**", "**Feature Concept**",
@@ -164,7 +164,7 @@ and "**Proposed Implementation**". Any organization member can add issues to be 
 so please use it responsibly and don't forget to assign correct values if you do so.
 
 You can add an issue to the project from the issue's page directly. Use the gear icon in the sidebar
-next to the "**Projects**" title and select "_Godot Proposal Metaverse_" from the list of available projects.
+next to the "**Projects**" title and select "_Redot Proposal Feed_" from the list of available projects.
 Status is automatically set to the default value, "_In Discussion_", even though it doesn't update visibly.
 You can still set it, or set it to another appropriate value.
 
@@ -174,8 +174,8 @@ You can still set it, or set it to another appropriate value.
 
 You can find all the issues in the project using this search filter:
 
-https://github.com/godotengine/godot-proposals/issues?q=is%3Aopen+is%3Aissue+project%3Agodotengine%2F37
+https://github.com/redot-engine/redot-proposals/issues?q=is%3Aopen+is%3Aissue+project%3Aredot-engine%2F9
 
 You can find all the issues **not** in the project yet using this search filter:
 
-https://github.com/godotengine/godot-proposals/issues?q=is%3Aopen+is%3Aissue+-project%3Agodotengine%2F37
+https://github.com/redot-engine/redot-proposals/issues?q=is%3Aopen+is%3Aissue+-project%3Aredot-engine%2F9
