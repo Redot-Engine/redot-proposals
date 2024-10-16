@@ -6,7 +6,7 @@ body:
   attributes:
     value: |
       - Write a descriptive proposal title above.
-      - Search [open](https://github.com/godotengine/godot-proposals/issues) and [closed](https://github.com/godotengine/godot-proposals/issues?q=is%3Aissue+is%3Aclosed) proposals to ensure the feature has not already been suggested.
+      - Search [open](https://github.com/Redot-Engine/redot-proposals/issues) and [closed](https://github.com/Redot-Engine/redot-proposals/issues?q=is%3Aissue+is%3Aclosed) proposals to ensure the feature has not already been suggested.
 
 - type: textarea
   attributes:
